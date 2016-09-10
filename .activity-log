@@ -698,3 +698,4 @@
 [2016-09-09T20:21:39] Fix edge case (#698)
 [2016-09-09T21:12:17] Code review (#699)
 [2016-09-10T15:14:54] Add error handling (#700)
+[2016-09-10T17:02:38] Refactor utils (#701)
