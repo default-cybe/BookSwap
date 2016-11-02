@@ -759,3 +759,4 @@
 [2016-10-31T11:23:26] Add validation (#759)
 [2016-10-31T12:27:15] Refactor code (#760)
 [2016-10-31T13:33:12] Add error handling (#761)
+[2016-11-02T08:24:03] Fix edge case (#762)
