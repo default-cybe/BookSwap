@@ -1195,3 +1195,4 @@
 [2017-11-17T11:05:34] Refactor utils (#1195)
 [2017-11-19T10:17:35] Update README (#1196)
 [2017-11-19T10:18:47] Fix edge case (#1197)
+[2017-11-19T10:43:31] Add error handling (#1198)
