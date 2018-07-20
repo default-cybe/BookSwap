@@ -1437,3 +1437,4 @@
 [2018-07-19T09:22:08] Fix edge case (#1437)
 [2018-07-20T14:28:46] Fix edge case (#1438)
 [2018-07-20T15:33:44] Add validation (#1439)
+[2018-07-20T19:16:16] Add error handling (#1440)
