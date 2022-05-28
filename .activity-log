@@ -2728,3 +2728,4 @@
 [2022-05-26T17:43:38] Fix formatting (#2728)
 [2022-05-27T13:48:03] Update README (#2729)
 [2022-05-27T15:39:25] Add error handling (#2730)
+[2022-05-27T22:45:34] Fix edge case (#2731)
