@@ -3392,3 +3392,4 @@
 [2023-10-05T23:59:08] Refactor code (#3392)
 [2023-10-06T10:21:34] Update deps (#3393)
 [2023-10-06T15:25:56] Refactor utils (#3394)
+[2023-10-06T17:45:46] Add error handling (#3395)
